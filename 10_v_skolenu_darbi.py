@@ -1,7 +1,7 @@
 #Tatjana Grencione
 
 #1 Bērziņa Tīna
-
+sveika berzina
 #2 Burmistris Ernests
 
 #3 Jefremovs Ēriks Miķelis
