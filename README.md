@@ -2,3 +2,5 @@
 1. repository
 
 darbs ar GitHub
+
+Tina Berzina
